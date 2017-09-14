@@ -1,6 +1,6 @@
 package simplemath;
 /**
- * A Simple class that has 
+ * A Simple class that has two integer variables
  * @author raunak
  *
  */
