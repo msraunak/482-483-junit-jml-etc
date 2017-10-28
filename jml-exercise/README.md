@@ -1,7 +1,7 @@
 CS 483: Software Testing
 Homework Assignment #3 			
-Assigned: Friday, Oct 27, 2017
-Due: Sunday, Nov 06, 2017 11:55PM
+Assigned: Sat Oct 28, 2017
+Due: Fri Nov 10, 2017 11:55PM
 Total Points: 70
 
 Using Assertions in Software Specification(JML)
